@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aalia Wadkar</h1>
-<h3 align="center">An IT Engineer from Dubai who is enthusiastic of AI/ML, Data Science and Cloud Technologies</h3>
+<h3 align="center">An IT Engineer based in Dubai, UAE, who is enthusiastic of AI/ML, Data Science and Cloud Technologies</h3>
 
-- 🔭 I’m currently working on [My Own Portfolio](https://aalias-portfolio-omega.vercel.app/)
-
+- 🔭 Actively exploring opportunities to apply my expertise and grow within the dynamic IT market in Dubai.
+- 
 - 🌱 I’m currently learning **AWS Cloud Practitioner**
 
 - 👨‍💻 All of my projects are available at [https://aalias-portfolio-omega.vercel.app/](https://aalias-portfolio-omega.vercel.app/)
