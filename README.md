@@ -2,7 +2,7 @@
 <h3 align="center">An IT Engineer based in Dubai, UAE, who is enthusiastic of AI/ML, Data Science and Cloud Technologies</h3>
 
 - 🔭 Actively exploring opportunities to apply my expertise and grow within the dynamic IT market in Dubai.
-- 
+  
 - 🌱 I’m currently learning **AWS Cloud Practitioner**
 
 - 👨‍💻 All of my projects are available at [https://aalias-portfolio-omega.vercel.app/](https://aalias-portfolio-omega.vercel.app/)
